@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Nucypher",
+    "description": "NuCypher 是公共区块链与DApp的数据隐私协议层.",
+    "image": "images/features/nucypher.png"
+  },
+  {
+    "title": "Oasis Lab",
+    "description": "隐私优先的云计算区块链平台，兼顾隐私保护、安全与性能.",
+    "image": "images/features/oasis_lab.png"
+  },
+  {
+    "title": "The Graph",
+    "description": "索引协议，用于组织和访问区块链和存储网络中的数据.",
+    "image": "images/features/the_graph.png"
+  },
+  {
+    "title": "Flow",
+    "description": "快速且开发友好的区块链，主要支持游戏应用.",
+    "image": "images/features/flow.png"
+  },
+  {
+    "title": "lrisnet",
+    "description": "Cosmos上的专注于支撑复杂的分布式应用开发的基础设施.",
+    "image": "images/features/irisnet.png"
+  },
+  {
+    "title": "Nebula",
+    "description": "为区块链数据提供去中心化搜索框架的开源公有链.",
+    "image": "images/features/nebula.png"
+  }
+]
