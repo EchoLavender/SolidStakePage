@@ -31,10 +31,6 @@ title = "Solid Stake"
 
 [menu]
   # Main Menu
-  [[menu.main]]
-    name = "Services"
-    url = "/services/"
-    weight = 1
 
   # Footer Menu
   [[menu.footer]]
