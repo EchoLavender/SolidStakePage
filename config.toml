@@ -27,14 +27,14 @@ title = "Solid Stake"
     meta_twitter_creator = "@zerostaticio"
 
   [params.footer]
-    copyright_text = 'Copyright © 2004 Solid Stake Co Ltd. All rights reserved  &nbsp;<a class="zerostatic" href="https://www.solidstake.net">https://www.solidstake.net</a>'
+    copyright_text = 'Copyright © 2020 Solid Stake Co Ltd. All rights reserved  &nbsp;<a class="zerostatic" href="https://www.solidstake.net">https://www.solidstake.net</a>'
 
 [menu]
   # Main Menu
-  #[[menu.main]]
-  #  name = "Services"
-  #  url = "/services/"
-  #    weight = 1
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 1
 
   # Footer Menu
   [[menu.footer]]
