@@ -26,7 +26,7 @@
   },
   {
     "title": "Matic",
-    "description": "Matic运用侧链的链下运算来提供扩展性解决方案， 同时运用Plasma和PoS机制来确保资产安全性。Matic致力于成为真正可以让开发者部署及运行去中心化应用的平台。",
-    "image": "images/features/matic.jpeg"
+    "description": "Matic致力于成为真正可以让开发者部署及运行去中心化应用的平台.",
+    "image": "images/features/matic.png"
   }
 ]

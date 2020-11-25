@@ -13,7 +13,7 @@ title = "Solid Stake"
   [params.logo]
     mobile = "images/logo/logo.jpeg"
     desktop = "images/logo/logo.jpeg"
-    desktop_height = "100px"
+    desktop_height = "40px"
     alt = "Solid Stake - 是一家新兴的极客加密资产服务商"
 
   [params.homepage_meta_tags]
