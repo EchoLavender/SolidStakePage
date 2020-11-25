@@ -11,8 +11,8 @@ title = "Solid Stake"
     show_call_box = true
 
   [params.logo]
-    mobile = "images/logo/logo.png"
-    desktop = "images/logo/logo.png"
+    mobile = "images/logo/logo.jpeg"
+    desktop = "images/logo/logo.jpeg"
     desktop_height = "100px"
     alt = "Solid Stake - 是一家新兴的极客加密资产服务商"
 

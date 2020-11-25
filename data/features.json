@@ -25,8 +25,8 @@
     "image": "images/features/irisnet.png"
   },
   {
-    "title": "Nebula",
-    "description": "为区块链数据提供去中心化搜索框架的开源公有链.",
-    "image": "images/features/nebula.png"
+    "title": "Matic",
+    "description": "Matic运用侧链的链下运算来提供扩展性解决方案， 同时运用Plasma和PoS机制来确保资产安全性。Matic致力于成为真正可以让开发者部署及运行去中心化应用的平台。",
+    "image": "images/features/matic.jpeg"
   }
 ]
